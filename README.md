@@ -1,3 +1,3 @@
 # Stepanus
-stepanus tri s
+stepanus tri sutrisno
 215314182
